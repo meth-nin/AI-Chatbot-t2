@@ -1,4 +1,4 @@
-const API_URL = "http://ai-chatbot-t2-production.up.railway.apps:8000/chat";
+const API_URL = "http://ai-web-production-5f615.up.railway.app-t2-production.up.railway.apps:8000/chat";
 
 let conversationHistory = [];
 const chatWindow = document.getElementById("chatWindow");
